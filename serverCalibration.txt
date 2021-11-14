@@ -1,1 +1,1 @@
-http://aufasd-calibration.azurewebsites.net/
+https://aufasd-calibration.azurewebsites.net/
