@@ -1,1 +1,1 @@
-This application does nor store any user data. All images uploaded to the application servers are deleted immediately after processing.
+This application does not store any user data. All images uploaded to the application servers are deleted immediately after processing.
