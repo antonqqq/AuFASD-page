@@ -1,0 +1,1 @@
+This application doesn't collect or store any user data. All images uploaded to the application servers are deleted immediately after processing.
